@@ -6,7 +6,7 @@ which is the part of the Software Engineering Curriculum in Metropolia UAS.
 _This material has been made by Juha Kopu and Vesa Ollikainen._
 
 1. [Introduction](Introduction.ipynb)
-2. [Data preprocessing and visualization](Data preprocessing and visualization.ipynb)
+2. [Data preprocessing and visualization](Data_preprocessing_and_visualization.ipynb)
 3. Metrics of classifiers, kNN, distance metrics
 3. Model overfitting, validation
 4. Decision trees
