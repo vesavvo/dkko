@@ -7,13 +7,13 @@ _This material has been made by Juha Kopu and Vesa Ollikainen._
 
 1. [Tools and introduction](Tools_and_introduction.ipynb)
 2. [Data preprocessing and visualization](Data_preprocessing_and_visualization.ipynb)
-3. Metrics of classifiers, kNN, distance metrics
-3. Model overfitting, validation
-4. Decision trees
-5. Random forests
-6. Linear regression
-7. Logistic regression
-8. Clustering. K-means, hierarchical clustering
-9. Association methods
-10. Recommender systems
-11. Text analysis: word vectors, TF-IDF, sentiment analysis, PoS tagging
+3. [kNN classification and evaluation metrics](kNN_classification.ipynb)
+4. Model overfitting, validation
+5. Decision trees
+6. Random forests
+7. Linear regression
+8. Logistic regression
+9. Clustering. K-means, hierarchical clustering
+10. Association methods
+11. Recommender systems
+12. Text analysis: word vectors, TF-IDF, sentiment analysis, PoS tagging
