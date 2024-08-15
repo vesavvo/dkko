@@ -23,3 +23,4 @@ _This material has been made by Juha Kopu and Vesa Ollikainen._
 ## Assignments
 
 1. [Data preprocessing](assignments/Assignment_Data_preprocessing.md). Based on modules 1 and 2.
+2. kNN classifier. Based on modules 3 and 4.
