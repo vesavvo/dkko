@@ -3,7 +3,7 @@
 ## Objectives
 
 The objectives of this assignment are:
-1.	to get familiar with the JuPyter Notebook environment
+1.	to get familiar with the Jupyter Notebook environment
 2.	to learn the basics of manipulating data frames
 
 ## Setup
@@ -48,6 +48,6 @@ Finally, calculate the correlation matrix and visualize it for each data frame. 
 
 ## Deliverables
 
-Submit a GitHub permalink that points to the JuPyter notebook as instructed in Oma.
+Submit a GitHub permalink that points to the Jupyter notebook as instructed in Oma.
 The submitted notebook must contain the step-to-step analysis pipeline, complete with Markdown blocks and comments that clearly explain what has been done. 
 
