@@ -12,7 +12,7 @@ _This material has been made by Juha Kopu and Vesa Ollikainen._
 3. kNN classification and evaluation metrics
 4. [Model overfitting, validation, process models](Model_overfitting_validation_process_models.ipynb)
 5. Decision trees
-6. Random forests
+6. [Random forests](Random_forests.ipynb)
 7. Linear regression
 8. Logistic regression
 9. Clustering. K-means, hierarchical clustering
