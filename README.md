@@ -9,7 +9,7 @@ _This material has been made by Juha Kopu and Vesa Ollikainen._
 
 1. [Tools and introduction](Tools_and_introduction.ipynb)
 2. [Data preprocessing and visualization](Data_preprocessing_and_visualization.ipynb)
-3. kNN classification and evaluation metrics
+3. [kNN classification and evaluation metrics](kNN_classification.ipynb)
 4. [Model overfitting, validation, process models](Model_overfitting_validation_process_models.ipynb)
 5. Decision trees
 6. [Random forests](Random_forests.ipynb)
