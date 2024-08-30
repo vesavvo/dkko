@@ -14,7 +14,7 @@ _This material has been made by Juha Kopu and Vesa Ollikainen._
 5. Decision trees
 6. [Random forests](Random_forests.ipynb)
 7. Linear regression
-8. Logistic regression
+8. [Logistic regression](Logistic_regression.ipynb)
 9. Clustering. K-means, hierarchical clustering
 10. Association methods
 11. Recommender systems
