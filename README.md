@@ -11,7 +11,7 @@ _This material has been made by Juha Kopu and Vesa Ollikainen._
 2. [Data preprocessing and visualization](Data_preprocessing_and_visualization.ipynb)
 3. [kNN classification and evaluation metrics](kNN_classification.ipynb)
 4. [Model overfitting, validation, process models](Model_overfitting_validation_process_models.ipynb)
-5. Decision trees
+5. [Decision trees](Decision_tree.ipynb)
 6. [Random forests](Random_forests.ipynb)
 7. Linear regression
 8. [Logistic regression](Logistic_regression.ipynb)
