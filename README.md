@@ -24,3 +24,4 @@ _This material has been made by Juha Kopu and Vesa Ollikainen._
 
 1. [Data preprocessing](assignments/Assignment_Data_preprocessing.md). Based on modules 1 and 2.
 2. [kNN classifier](assignments/Assignment_kNN_classifier.md). Based on modules 3 and 4.
+3. [Decision trees and random forests](assignments/Assignment_Decision_trees_and_random_forests.md). Based on modules 5 and 6.
