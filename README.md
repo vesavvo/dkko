@@ -16,7 +16,7 @@ _This material has been made by Juha Kopu and Vesa Ollikainen._
 7. Linear regression
 8. [Logistic regression](Logistic_regression.ipynb)
 9. Clustering. K-means, hierarchical clustering
-10. Association methods
+10. [Association rule mining](Association.ipynb)
 11. Recommender systems
 12. Text analysis: word vectors, TF-IDF, sentiment analysis, PoS tagging
 
