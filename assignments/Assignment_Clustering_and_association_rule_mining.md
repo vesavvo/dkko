@@ -22,12 +22,18 @@ In the initial phase of the project, the company focuses on 20 internal product 
 
 There are two datasets that are provided for this assignment:
 
-1. `drone_cust_locations.csv` - This dataset contains the locations of customers. The dataset has the following columns:
+1. [drone_cust_locations.csv](../datasets/drone_delivery/drone_cust_locations.csv) - This dataset contains the 
+   locations of customers. The dataset has the 
+   following 
+   columns:
     - `clientid` - The unique identifier for the customer
     - `x` - The x coordinate of the customer's location, when plotted into a 2D plane
     - `y` - The y coordinate of the customer's location, when plotted into a 2D plane
     
-2. `drone_prod_groups.csv` - This dataset contains the sales data for products. The dataset has the following columns:
+2. [drone_prod_groups.csv](../datasets/drone_delivery/drone_prod_groups.csv) - This dataset contains the sales data for products. The 
+   dataset has the 
+   following 
+   columns:
     - `ID` - The transaction ID
     - `Prod1, ..., Prod20` - Binary variables indicating whether at least one product from a particular group was 
       purchased 
