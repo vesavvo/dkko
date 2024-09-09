@@ -13,7 +13,8 @@ The company intends to create a set of hubs, or depots, where the drones are sta
 The company is looking to optimize its operations by finding the optimal locations for its hubs.
 
 > For a real life example of such a delivery system, see the website of Amazon Prime Air: [https://www.aboutamazon.
-> com/news/tag/prime-air](https://www.aboutamazon.com/news/tag/prime-air). The assignment or the data sets provided are not related to this 
+> com/news/tag/prime-air](https://www.aboutamazon.com/news/tag/prime-air). Neither the assignment nor the data sets 
+> provided are not related to this 
 > company in any way.
 
 Another optimization idea is to increase the revenue of the company by recommending products to customers based on their purchase history. For this purpose, the company is looking to use association rule mining to find interesting relationships between products that are frequently purchased together.
