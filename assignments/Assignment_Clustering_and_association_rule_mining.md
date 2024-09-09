@@ -78,7 +78,7 @@ depot numbers. What are your observations?
 In the end, your report should give a recommendation on how the depots should be placed, depending on the number of depots.
 You should also discuss the differences between k-means and hierarchical clustering in this context.
 
-### Part 2: Recommending products
+### Part 2: Finding interesting relationships between product groups
 
 Use association rule mining to find interesting relationships between product groups.
 
