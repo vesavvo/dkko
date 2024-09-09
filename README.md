@@ -13,7 +13,7 @@ _This material has been made by Juha Kopu and Vesa Ollikainen._
 4. [Model overfitting, validation, process models](Model_overfitting_validation_process_models.ipynb)
 5. [Decision trees](Decision_tree.ipynb)
 6. [Random forests](Random_forests.ipynb)
-7. Linear regression
+7. [Linear regression](Linear_regression.ipynb)
 8. [Logistic regression](Logistic_regression.ipynb)
 9. Clustering. K-means, hierarchical clustering
 10. [Association rule mining](Association.ipynb)
