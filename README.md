@@ -18,7 +18,7 @@ _This material has been made by Juha Kopu and Vesa Ollikainen._
 9. Clustering. K-means, hierarchical clustering
 10. [Association rule mining](Association.ipynb)
 11. Recommender systems
-12. Text analysis: word vectors, TF-IDF, sentiment analysis, PoS tagging
+12. Text analytics
 
 ## Assignments
 
@@ -26,3 +26,4 @@ _This material has been made by Juha Kopu and Vesa Ollikainen._
 2. [kNN classifier](assignments/Assignment_kNN_classifier.md). Based on modules 3 and 4.
 3. [Decision trees and random forests](assignments/Assignment_Decision_trees_and_random_forests.md). Based on modules 5 and 6.
 4. [Linear and logistic regression](assignments/Assignment_Linear_and_logistic_regression.md). Based on modules 7 and 8.)
+5. [Clustering and association rule mining](assignments/Assignment_Clustering_and_association_rule_mining.md). Based on modules 9 and 10.
