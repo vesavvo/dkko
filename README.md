@@ -18,7 +18,7 @@ _This material has been made by Juha Kopu and Vesa Ollikainen._
 9. [Clustering and k-means algorithm](Clustering_and_kmeans.ipynb)
 10. [Association rule mining](Association.ipynb)
 11. [Recommender systems](Recommender_systems.ipynb)
-12. [Text analytics](Text_analytics.ipynb)
+12. [Text analytics (not included in the exam)](Text_analytics.ipynb)
 
 ## Assignments
 
