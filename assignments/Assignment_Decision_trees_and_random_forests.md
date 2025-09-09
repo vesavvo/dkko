@@ -11,9 +11,7 @@ The objectives of this assignment are:
 In the assignment, use the Phishing dataset that is available at the UCI Machine Learning Repository: [Phishing Websites Data Set](https://archive.ics.uci.edu/ml/datasets/phishing+websites).
 The target variable `Result` indicates whether a website is a phishing site or not.
 
-**Note:** As the interpretation of the -1’s and 1’s in the Result column seems to be missing from
-the document, it may be helpful to know that a ‘1‘ corresponds to a phishing site and a ‘-1’ to a
-legitimate site.
+**Note:** The documentation is very obscure about the encoding of the variables. However, in the article of Khan et al. at [via Arxiv](https://arxiv.org/pdf/2101.02552), it is explicitely written that 1 means a legitimate website, and -1 a phishing website. For explanatory variables, a similar interpretation should then be made, i.e. 1 = phishy feature present, 0 = not present, but this is not explicitely stated in the dataset's documentation. On the other hand, one can flip the interpretation of the response variable values (meaning 1 = phishing; 0 = legitimate), and interpret the explanatory variables in a similar flipped fashion. As a consequence, the resulting model(s) and their interpretation should be roughly - if not exactly - equivalent. These varying interpretations and speculations are due to low-quality documentation of the dataset, so the assignment also acts as a good example of bad documentation of a dataset.
 
 **Hint:** Click the Download in Python button for quick access to the dataset. In addition, click the Download button 
 to gain access to the dataset description.
